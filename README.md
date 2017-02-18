@@ -1,4 +1,4 @@
-# Sandpit Demo (with es5)
+# Sandpit Demo (with ES5)
 An example of using Sandpit with ES5, in case you'd prefer to avoid ES6.
 
 ## Getting Started
