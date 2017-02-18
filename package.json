@@ -1,0 +1,12 @@
+{
+  "name": "sandpit-es5",
+  "private": true,
+  "dependencies": {
+    "sandpit": "^0.1.7",
+    "webpack": "^2.2.1",
+    "webpack-dev-server": "^2.3.0"
+  },
+  "scripts": {
+    "start": "webpack-dev-server ./src/index"
+  }
+}
